@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'TelefonWeb';
+  src: url('TelefonWeb.eot');
+  src: url('TelefonWeb.woff2') format('woff2'),
+       url('TelefonWeb.woff') format('woff'),
+       url('TelefonWeb.ttf') format('truetype'),
+       url('TelefonWeb.svg#TelefonWeb') format('svg'),
+       url('TelefonWeb.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+

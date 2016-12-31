@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'TelefonWebBold';
+  src: url('TelefonWebBold.eot');
+  src: url('TelefonWebBold.woff2') format('woff2'),
+       url('TelefonWebBold.woff') format('woff'),
+       url('TelefonWebBold.ttf') format('truetype'),
+       url('TelefonWebBold.svg#TelefonWebBold') format('svg'),
+       url('TelefonWebBold.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
