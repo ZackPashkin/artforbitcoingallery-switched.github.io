@@ -2,179 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f867eb28-af7d-4895-8933-f4ac1fcd428f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/css/aos_1479312499.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/css/aos_1479312567.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/css/aos_1479312632.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/css/aos_1479313352.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/css/aos_1479313669.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/css/aos_1479313845.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/css/aos_1479313954.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/css/aos_1479314419.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/css/aos_1479314533.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/css/aos_1479315620.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/css/aos_1479315647.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/css/aos_1479315701.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/css/aos_1479315948.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/css/aos_1479316358.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/css/aos_1479316757.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/css/aos_1479316928.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/css/reset_1479064325.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/css/reset_1479064753.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/css/reset_1479065004.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/css/reset_1479066730.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/css/reset_1479067174.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/css/reset_1479067867.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/css/reset_1479068162.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/css/reset_1479068383.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/css/reset_1479068912.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/css/reset_1479069364.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/css/reset_1479069504.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/css/reset_1479069800.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/css/reset_1479069954.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/css/reset_1479070035.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/css/reset_1479070201.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/css/reset_1479092001.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/css/reset_1479093275.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/css/reset_1479093738.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/css/reset_1479164558.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/css/reset_1479167185.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/css/reset_1479213957.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/css/reset_1479214063.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/css/reset_1479312499.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/css/reset_1479312567.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/css/reset_1479312631.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/css/reset_1479313352.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/css/reset_1479313669.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/css/reset_1479313845.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/css/reset_1479313954.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/css/reset_1479314419.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/css/reset_1479314533.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/css/reset_1479315620.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/css/reset_1479315647.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/css/reset_1479315701.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/css/reset_1479315948.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/css/reset_1479316358.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/css/reset_1479316757.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/css/reset_1479316928.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/css/style_1479064325.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/css/style_1479064753.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/css/style_1479065004.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/css/style_1479066730.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/css/style_1479067174.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/css/style_1479067867.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/css/style_1479068162.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/css/style_1479068383.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/css/style_1479068912.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/css/style_1479069364.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/css/style_1479069504.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/css/style_1479069800.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/css/style_1479069954.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/css/style_1479070035.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/css/style_1479070201.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/css/style_1479092001.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/css/style_1479093275.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/css/style_1479093738.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/css/style_1479164558.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/css/style_1479167185.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/css/style_1479213957.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/css/style_1479214063.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/css/style_1479312499.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/css/style_1479312567.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/css/style_1479312631.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/css/style_1479313352.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/css/style_1479313669.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/css/style_1479313845.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/css/style_1479313954.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/css/style_1479314419.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/css/style_1479314533.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/css/style_1479315620.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/css/style_1479315647.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/css/style_1479315701.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/css/style_1479315948.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/css/style_1479316358.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/css/style_1479316757.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/css/style_1479316928.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/index_1479064325.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/index_1479064753.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/index_1479065003.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/index_1479066730.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/index_1479067174.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/index_1479067867.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/index_1479068162.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/index_1479068383.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/index_1479068912.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/index_1479069364.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/index_1479069504.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/index_1479069800.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/index_1479069954.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/index_1479070035.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/index_1479070201.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/index_1479092001.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/index_1479093275.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/index_1479093737.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/index_1479164558.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/index_1479167185.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/index_1479213956.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/index_1479214062.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/index_1479312499.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/index_1479312567.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/index_1479312631.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/index_1479313352.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/index_1479313669.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/index_1479313844.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/index_1479313954.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/index_1479314419.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/index_1479314533.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/index_1479315620.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/index_1479315647.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/index_1479315701.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/index_1479315948.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/index_1479316358.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/index_1479316757.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/index_1479316928.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/pinegrow_1479064325.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/pinegrow_1479064753.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/pinegrow_1479065003.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/pinegrow_1479066730.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/pinegrow_1479067174.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/pinegrow_1479067867.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/pinegrow_1479068162.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/pinegrow_1479068383.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/pinegrow_1479068912.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/pinegrow_1479069364.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/pinegrow_1479069504.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/pinegrow_1479069800.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/pinegrow_1479069954.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/pinegrow_1479070035.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/pinegrow_1479070201.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/pinegrow_1479092001.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/pinegrow_1479093275.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/pinegrow_1479093737.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/pinegrow_1479164558.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/pinegrow_1479167185.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/pinegrow_1479213956.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/pinegrow_1479214062.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/pinegrow_1479312499.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/pinegrow_1479312567.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/pinegrow_1479312631.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/pinegrow_1479313352.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/pinegrow_1479313669.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/pinegrow_1479313844.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/pinegrow_1479313954.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/pinegrow_1479314419.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/pinegrow_1479314533.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/pinegrow_1479315620.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/pinegrow_1479315647.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/pinegrow_1479315701.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/pinegrow_1479315948.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/pinegrow_1479316358.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/pinegrow_1479316757.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pgbackup/pinegrow_1479316928.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/image-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/image-2.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/art-slides.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/art-slides.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -190,8 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-406">
-              <caret line="109" column="8" selection-start-line="109" selection-start-column="8" selection-end-line="109" selection-end-column="8" />
+            <state relative-caret-position="825">
+              <caret line="130" column="103" selection-start-line="130" selection-start-column="103" selection-end-line="130" selection-end-column="103" />
             </state>
           </provider>
         </entry>
@@ -285,6 +113,11 @@
             <path>
               <item name="irinaclassic-art.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="irinaclassic-art.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="irinaclassic-art.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="irinaclassic-art.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -330,19 +163,19 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1549464180377</updated>
-      <workItem from="1549464183102" duration="7110000" />
+      <workItem from="1549464183102" duration="7879000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7110000" />
+    <option name="totallyTimeSpent" value="7879000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="35" width="3840" height="2125" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.37776607" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.37776607" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
@@ -525,8 +358,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-406">
-          <caret line="109" column="8" selection-start-line="109" selection-start-column="8" selection-end-line="109" selection-end-column="8" />
+        <state relative-caret-position="825">
+          <caret line="130" column="103" selection-start-line="130" selection-start-column="103" selection-end-line="130" selection-end-column="103" />
         </state>
       </provider>
     </entry>
