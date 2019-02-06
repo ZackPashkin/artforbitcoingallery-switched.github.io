@@ -5,88 +5,79 @@ var context = {
 
   "slides": [{
       "art-name": "Interchange",
-      "artist-name": "Willem de Kooning",
+      //"artist-name": "Willem de Kooning",
       "type": "Oil on canvas",
-      "location": "Private collection of Kenneth C. Griffin",
-      "year": "1955",
-      "img-link": "https://upload.wikimedia.org/wikipedia/en/5/58/Interchange_%28de_Kooning%29.jpg",
-      "price": "428 535",
-      "usd": "300",
-      "currency": "btc"
+      //"location": "Private collection of Kenneth C. Griffin",
+      "year": "2018",
+      "img-link": "https://lh3.googleusercontent.com/m4zc3CsdsZTn51Y8eX6liQNt7xaV1anjUDmT0IlPdir5_bnEeodL474GE1EwrBgHJuplWEkJGCFcI_EibCPX8VAVnqtpss5FXyDAhRq0iUPlWp_TF6NtLNuhSpJAXbWQb03icc6EApF2H3mLdFM4ZCaQtId8oKZViWPFsRI9ZZYerkNLznFezYBzrSljQzFL3ih0_f9dQAQbPlVejm_gn06IePcpZ12Uzy16Y85AaMltIcYsi0msdxAprRjNMjwUj-bUTxrrhor_hYrXsbe_7B-9sCO8CEkPg3jGlKgJ6TDCAnLCzOXQPAN8s5N2K08X8loOOXA8HBIUCFpvSRLNOvziLwzcdWRQsu5LHNMfoXRdbgnX_ygYzQfQkpBDbZArtta8eKHGBk5SqU_4TygS_QlHulXIdfm4wK5cp4qu0ITsylLD84RdV2Vb4r5TE20ZhDucuxVvngD6V9mZHZI8d4Im4I0rSxSI2Ik06jrUxBsmHJQVi7Ofx-I0Jf3l9h_pNYiXMwp5OZWGxx9V4kNBJq6IIB6xTLfSoJqB-fA9hZDrp_lZmZltkeWj4c5snTGt_dN3TQtei9F4zE3wnt7VfCm42osqMv-lECGgZCSUwuzHN9an34j9l-v1TbUEo30J35pNcmZtbr45M398_aXkVD2v4ubSuCr9=w735-h490-no",
+      "price": "word",
+      "currency": "smt"
+
+
+
     },
 
     {
       "art-name": "When Will You Marry?",
-      "artist-name": "Paul Gauguin",
       "type": "Oil on canvas",
-      "location": "Fondation Beyeler, Riehen, Switzerland",
-      "year": "1892",
+      "year": "2017",
       "img-link": "http://bit.ly/2f2KwZ4",
-      "price": "405 493",
-      "usd": "300",
-      "currency": "btc"
+      "price": "smt",
+      "currency": "word"
+
     },
 
     {
       "art-name": "The Card Players",
-      "artist-name": "Paul Cézanne",
+      //"artist-name": "Paul Cézanne",
       "type": "Oil on canvas",
-      "location": "Private collection",
-      "year": "1892",
+      "year": "2017",
       "img-link": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Paul_C%C3%A9zanne_222.jpg/1280px-Paul_C%C3%A9zanne_222.jpg",
-      "price": "384 507",
-      "usd": "273",
-      "currency": "btc"
+      "price": "one",
+      "currency": "smt"
     },
 
     {
       "art-name": "Number 17A",
-      "artist-name": "Jackson Pollock",
+      //"artist-name": "Jackson Pollock",
       "type": "Oil on fiberboard",
-      "location": "Private collection",
-      "year": "1948",
+      "year": "2017",
       "img-link": "https://upload.wikimedia.org/wikipedia/en/f/f2/Number_17A.jpg",
-      "price": "281 690",
-      "usd": "200",
-      "currency": "btc"
+      "price": "two",
+      "currency": "smt"
     },
 
     {
       "art-name": "No. 6",
-      "artist-name": "Mark Rothko",
+      //"artist-name": "Mark Rothko",
       "type": "Oil on canvas",
-      "location": "Private collection",
-      "year": "1951",
+      "year": "2017",
       "img-link": "https://upload.wikimedia.org/wikipedia/en/0/03/No._6_%28Violet%2C_Green_and_Red%29.jpg",
-      "price": "261 972",
-      "usd": "186",
-      "currency": "btc"
+      "price": "yes",
+      "currency": "qwr"
     },
 
     {
       "art-name": "Pendant portraits of Maerten Soolmans and Oopjen Coppit",
-      "artist-name": "Rembrandt van Rijn",
+      //"artist-name": "Rembrandt van Rijn",
       "type": "Oil on canvas",
-      "location": "Louvre and Rijksmuseum",
-      "year": "1634",
+      "year": "2016",
       "img-link": "https://upload.wikimedia.org/wikipedia/commons/7/78/Pendant_portraits_of_Maerten_Soolmans_and_Oopjen_Coppit.jpeg",
-      "price": "253 521",
-      "usd": "180",
-      "currency": "btc"
+      "price": "123",
+      "currency": "w"
     },
 
     {
       "art-name": "Les Femmes d'Alger",
-      "artist-name": "Pablo Picasso",
+      //"artist-name": "Pablo Picasso",
       "type": "Oil on canvas",
-      "location": "Private collection of Hamad bin Jassim bin Jaber Al Thani, Doha, Qatar",
-      "year": "1955",
-      "img-link": "https://upload.wikimedia.org/wikipedia/en/b/b5/Les_femmes_d%E2%80%99Alger%2C_Picasso%2C_version_O.jpg",
-      "price": "252 676",
-      "usd": "179.4",
-      "currency": "btc"
-    },
 
+      "year": "2017",
+      "img-link": "https://upload.wikimedia.org/wikipedia/en/b/b5/Les_femmes_d%E2%80%99Alger%2C_Picasso%2C_version_O.jpg",
+      "price": "this",
+      "currency": "abc"
+    },
+/*
     {
       "art-name": "Nu couché",
       "artist-name": "Amedeo Modigliani",
@@ -912,7 +903,7 @@ var context = {
     //   "img-link": " ",
     //   "price": "292 520",
     //   "currency": "btc"
-    // },
+    // },*/
 
 
   ]

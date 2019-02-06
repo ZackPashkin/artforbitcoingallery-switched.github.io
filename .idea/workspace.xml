@@ -1,0 +1,534 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f867eb28-af7d-4895-8933-f4ac1fcd428f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/css/aos_1479312499.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/css/aos_1479312567.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/css/aos_1479312632.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/css/aos_1479313352.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/css/aos_1479313669.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/css/aos_1479313845.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/css/aos_1479313954.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/css/aos_1479314419.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/css/aos_1479314533.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/css/aos_1479315620.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/css/aos_1479315647.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/css/aos_1479315701.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/css/aos_1479315948.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/css/aos_1479316358.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/css/aos_1479316757.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/css/aos_1479316928.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/css/reset_1479064325.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/css/reset_1479064753.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/css/reset_1479065004.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/css/reset_1479066730.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/css/reset_1479067174.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/css/reset_1479067867.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/css/reset_1479068162.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/css/reset_1479068383.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/css/reset_1479068912.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/css/reset_1479069364.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/css/reset_1479069504.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/css/reset_1479069800.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/css/reset_1479069954.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/css/reset_1479070035.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/css/reset_1479070201.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/css/reset_1479092001.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/css/reset_1479093275.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/css/reset_1479093738.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/css/reset_1479164558.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/css/reset_1479167185.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/css/reset_1479213957.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/css/reset_1479214063.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/css/reset_1479312499.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/css/reset_1479312567.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/css/reset_1479312631.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/css/reset_1479313352.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/css/reset_1479313669.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/css/reset_1479313845.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/css/reset_1479313954.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/css/reset_1479314419.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/css/reset_1479314533.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/css/reset_1479315620.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/css/reset_1479315647.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/css/reset_1479315701.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/css/reset_1479315948.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/css/reset_1479316358.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/css/reset_1479316757.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/css/reset_1479316928.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/css/style_1479064325.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/css/style_1479064753.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/css/style_1479065004.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/css/style_1479066730.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/css/style_1479067174.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/css/style_1479067867.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/css/style_1479068162.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/css/style_1479068383.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/css/style_1479068912.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/css/style_1479069364.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/css/style_1479069504.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/css/style_1479069800.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/css/style_1479069954.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/css/style_1479070035.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/css/style_1479070201.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/css/style_1479092001.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/css/style_1479093275.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/css/style_1479093738.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/css/style_1479164558.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/css/style_1479167185.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/css/style_1479213957.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/css/style_1479214063.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/css/style_1479312499.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/css/style_1479312567.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/css/style_1479312631.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/css/style_1479313352.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/css/style_1479313669.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/css/style_1479313845.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/css/style_1479313954.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/css/style_1479314419.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/css/style_1479314533.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/css/style_1479315620.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/css/style_1479315647.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/css/style_1479315701.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/css/style_1479315948.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/css/style_1479316358.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/css/style_1479316757.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/css/style_1479316928.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/index_1479064325.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/index_1479064753.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/index_1479065003.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/index_1479066730.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/index_1479067174.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/index_1479067867.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/index_1479068162.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/index_1479068383.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/index_1479068912.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/index_1479069364.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/index_1479069504.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/index_1479069800.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/index_1479069954.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/index_1479070035.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/index_1479070201.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/index_1479092001.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/index_1479093275.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/index_1479093737.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/index_1479164558.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/index_1479167185.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/index_1479213956.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/index_1479214062.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/index_1479312499.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/index_1479312567.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/index_1479312631.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/index_1479313352.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/index_1479313669.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/index_1479313844.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/index_1479313954.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/index_1479314419.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/index_1479314533.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/index_1479315620.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/index_1479315647.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/index_1479315701.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/index_1479315948.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/index_1479316358.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/index_1479316757.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/index_1479316928.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/pinegrow_1479064325.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/pinegrow_1479064753.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/pinegrow_1479065003.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/pinegrow_1479066730.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/pinegrow_1479067174.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/pinegrow_1479067867.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/pinegrow_1479068162.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/pinegrow_1479068383.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/pinegrow_1479068912.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/pinegrow_1479069364.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/pinegrow_1479069504.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/pinegrow_1479069800.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/pinegrow_1479069954.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/pinegrow_1479070035.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/pinegrow_1479070201.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/pinegrow_1479092001.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/pinegrow_1479093275.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/pinegrow_1479093737.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/pinegrow_1479164558.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/pinegrow_1479167185.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/pinegrow_1479213956.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/pinegrow_1479214062.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/pinegrow_1479312499.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/pinegrow_1479312567.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/pinegrow_1479312631.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/pinegrow_1479313352.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/pinegrow_1479313669.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/pinegrow_1479313844.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/pinegrow_1479313954.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/pinegrow_1479314419.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/pinegrow_1479314533.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/pinegrow_1479315620.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/pinegrow_1479315647.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/pinegrow_1479315701.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/pinegrow_1479315948.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/pinegrow_1479316358.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/pinegrow_1479316757.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pgbackup/pinegrow_1479316928.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/image-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/image-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/art-slides.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/art-slides.js" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-406">
+              <caret line="109" column="8" selection-start-line="109" selection-start-column="8" selection-end-line="109" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CNAME">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/contact.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="29">
+              <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/download.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/art-slides.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="319">
+              <caret line="11" column="738" selection-start-line="11" selection-start-column="738" selection-end-line="11" selection-end-column="738" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/img/bit_bg.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/img/image-0.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/img/image-1.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/index.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>$M</find>
+      <find>art</find>
+      <find>title1</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/contact.html" />
+        <option value="$PROJECT_DIR$/js/art-slides.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="35" />
+    <option name="width" value="1920" />
+    <option name="height" value="2125" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="irinaclassic-art.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="irinaclassic-art.github.io" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="irinaclassic-art.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="irinaclassic-art.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/irinaclassic-art.github.io/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f867eb28-af7d-4895-8933-f4ac1fcd428f" name="Default Changelist" comment="" />
+      <created>1549464180377</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549464180377</updated>
+      <workItem from="1549464183102" duration="7110000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="7110000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="35" width="3840" height="2125" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.37776607" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32974717" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/_pgbackup/index_1479064325.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_pgbackup/pinegrow_1479064325.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_pgbackup/index_1479066730.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/paypal-logo.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/preview.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thank-you.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/handlebars-v4.0.5.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/favicons/manifest.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/favicons/mstile-150x150.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/favicons/safari-pinned-tab.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/favicons/favicon-32x32.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/favicons/browserconfig.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jquery.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="4" column="35" lean-forward="true" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jquery.simpler-sidebar.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/btc.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/handlebars.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/art_bg.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/bit_bg2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/bit_bg3.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/close-icon.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/image-3.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/image-4.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/image-5.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/image-6.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/menu-icon.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/image-74.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/image-74.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/image-73.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/aos.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/reset.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.ftpquota">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/btc_afb.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CNAME">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/download.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/art-slides.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="11" column="738" selection-start-line="11" selection-start-column="738" selection-end-line="11" selection-end-column="738" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/bit_bg.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/image-0.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/image-1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/image-2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-406">
+          <caret line="109" column="8" selection-start-line="109" selection-start-column="8" selection-end-line="109" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
