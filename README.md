@@ -2,5 +2,6 @@
 
 
 *TODO next: implement magic pop-up
+*TODO next: register custom domain
 
 
