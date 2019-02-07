@@ -22,13 +22,13 @@ var context = {
       "type": "Oil on canvas",
       "year": "2017",
       "img-link": "http://bit.ly/2f2KwZ4",
-      "price": "smt",
-      "currency": "word"
+      "price": "some",
+      "currency": "text"
 
     },
 
     {
-      "art-name": "The Card Players",
+      "art-name": "Some title",
       //"artist-name": "Paul Cézanne",
       "type": "Oil on canvas",
       "year": "2017",
@@ -63,8 +63,8 @@ var context = {
       "type": "Oil on canvas",
       "year": "2016",
       "img-link": "https://upload.wikimedia.org/wikipedia/commons/7/78/Pendant_portraits_of_Maerten_Soolmans_and_Oopjen_Coppit.jpeg",
-      "price": "123",
-      "currency": "w"
+      "price": "some",
+      "currency": "text"
     },
 
     {
